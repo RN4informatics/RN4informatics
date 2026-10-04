@@ -31,9 +31,12 @@ LEAN yellow belt certified
 ---
 🌱  Tools and technologies I'm learning:
 
+
 Languages: Python, SQL
-Libraries: pandas, NumPy, scikit-learn, matplotlib
-Tools: Jupyter, GitHub
+
+Libraries: pandas, NumPy, scikit-learn, Matplotlib
+
+Tools & Platforms: Jupyter, pgAdmin, GitHub
 
 ---
 
